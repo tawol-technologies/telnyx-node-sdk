@@ -1,4 +1,4 @@
-import Telnyx from "./Telnyx";
+import Telnyx from "./index";
 
 
 const telnyx = new Telnyx('Development', 'MY_SECRET', 'MY_PUBLIC');
