@@ -1,7 +1,7 @@
 {
   "name": "@tawol-tech/telnyx-node-sdk",
-  "version": "0.0.3",
-  "description": "SDK for Telnyx for Developers with Love",
+  "version": "0.0.4",
+  "description": "SDK for Telnyx for Developers with Love from Tawol Tech",
   "main": "index.js",
   "devDependencies": {
     "@babel/core": "^7.17.2",
